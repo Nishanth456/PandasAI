@@ -18,6 +18,10 @@ Equipped with advanced algorithms and automated features, Pandas AI can effortle
 ## Overview
 PandasAI is a Python library that extends the functionality of Pandas by incorporating generative AI capabilities. Its purpose is to supplement rather than replace the widely used data analysis and manipulation tool. With PandasAI, users can interact with Pandas data frames more humanistically, enabling them to summarize the data effectively.
 
+## Dataset
+To implement the commands, I have taken a dataset form Kaggle named "120 years of Olympic history: athletes and results" 
+Access dataset through this link - https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results or else download the one which I have uploaded
+
 ## Getting Started
 To begin exploring with PandasAI, you need to follow these steps:
 
